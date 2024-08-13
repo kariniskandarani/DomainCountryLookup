@@ -33,6 +33,8 @@ pip install Pandas
 ```cmd
 pip install pycountry
 ```
+__Note__: you can use any IDE of your preference. I used google collab.
+
 ## Code Snippet Image
 <img src="https://github.com/kariniskandarani/DomainCountryLookup/blob/main/CodeSnippet.png" alt="Project Logo" width="700"/>
 
