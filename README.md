@@ -3,7 +3,8 @@
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
 3. [Requirements](#requirements)
-4. [Code Snippet Image](#code-snippet-image)
+4. [Usage](#usage)
+5. [Code Snippet Image](#code-snippet-image)
 
 ## Project Overview
 DomainCountryLookup is a Python utility designed to enhance your domain analysis workflows. It allows you to map top-level domains (TLDs) to their corresponding ISO 3166-1 alpha-2 country codes. In addition to this core functionality, the tool processes email data by extracting the user, domain, and country fields, and then appends this information to a converted JSON file for easy access and integration.
@@ -19,6 +20,19 @@ DomainCountryLookup is a Python utility designed to enhance your domain analysis
 - Pandas Library
 - CSV file with email data
 
+## Usage 
+
+<!-- Clone the repository -->
+```cmd
+git clone https://github.com/kariniskandarani/DomainCountryLookup.git
+```
+<!-- Install Dependencies -->
+```cmd
+pip install Pandas
+```
+```cmd
+pip install pycountry
+```
 ## Code Snippet Image
 <img src="https://github.com/kariniskandarani/DomainCountryLookup/blob/main/CodeSnippet.png" alt="Project Logo" width="700"/>
 
