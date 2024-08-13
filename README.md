@@ -15,3 +15,7 @@ DomainCountryLookup is a Python utility designed to enhance your domain analysis
 - pycountry library
 - Pandas Library
 - CSV file with email data
+
+## Code Snippet Image
+<img src="https://github.com/kariniskandarani/DomainCountryLookup/blob/main/carbon.png" alt="Project Logo" width="700"/>
+
